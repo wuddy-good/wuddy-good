@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejcwdDZxZGZqNGo3bTluaXQwOXJvOGZzYzV2YmExNXVpb3F5eDBoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif)">
 
 - 💬 Ask me about **React, Next.js, Vue, Laravel, Python, WordPress**
 
